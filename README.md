@@ -1,1 +1,1 @@
-# pracowniaJezykowSkryptowych
+# Pracownia języków skryptowych
